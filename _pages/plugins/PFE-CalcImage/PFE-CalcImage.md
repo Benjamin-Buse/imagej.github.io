@@ -17,6 +17,8 @@ To import quantified maps from Probe Software [Hyperlink](https://www.probesoftw
 ##Installation
 Download zip folder containing macros from [Hyperlink](https://github.com/Benjamin-Buse/PFE-ImageJ/blob/main/PFE_CalcImage.zip). Unzip the folder and copy it to the plugin folder within ImageJ installation. If ImageJ is open, restart. Then should be visible within plugin menu.
 
+![External Image] (https://smf.probesoftware.com/gallery/453_12_05_25_4_17_18.png)
+
 ##Usage
 Prior to import into ImageJ, in CalcImage export quantified grd files to ascii txt
 Once images have been imported into ImageJ:
